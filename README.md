@@ -3,7 +3,7 @@
 
 Tags: 念佛记数, 念佛计数, 念佛计数器, 安卓, Buddha, Buddha Counter, Android  
 
-Click [here](https://github.com/j2rong/BuddhaCounter#English) to go to English description.
+Click [**here**](https://github.com/j2rong/BuddhaCounter#english) to go to **English** description.
 <br/>
 
 ## 截图 (Screenshots)
