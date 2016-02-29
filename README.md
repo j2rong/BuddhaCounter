@@ -36,8 +36,9 @@ Click [**here**](https://github.com/j2rong/BuddhaCounter#english) to go to **Eng
   1、代码重构，修复已知错误
   2、全新的质感(Material Design)界面设计
   3、新增图表展示月份数据，更加直观
-  4、添加英语翻译(Add English translation)
-  5、支持Android 6.0
+  4、计数器可点击屏幕任何一处
+  5、添加英语翻译(Add English translation)
+  6、支持Android 6.0
   ```
 
 - **1.5.160126**
